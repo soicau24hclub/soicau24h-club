@@ -27,7 +27,7 @@
 
 ## 🖼️ Ảnh Giao Diện Website
 
-![Giao diện chính của Soicau24h.club](https://soicau24h.club/wp-content/uploads/2025/05/IMG_6445.jpeg))
+![Giao diện chính của Soicau24h.club](https://soicau24h.club/wp-content/uploads/2025/05/IMG_6445.jpeg)
 
 ---
 
