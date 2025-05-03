@@ -49,3 +49,39 @@
 
 ## 🔑 Từ Khóa SEO Mở Rộng
 
+Danh sách từ khóa mở rộng giúp cải thiện thứ hạng tìm kiếm và thu hút đúng đối tượng người dùng:
+
+- **soi cầu lô đề miền Bắc**
+- **soi cầu MB**
+- **soi cầu MB 247**
+- **soi cầu 24h**
+- **soi cầu 247**
+- **soi cầu miễn phí**
+- **soi cầu chuẩn**
+- **soi cầu VIP**
+- **giải mã giấc mơ**
+- **thống kê lô tô**
+- **cặp số may mắn**
+- **nuôi lô**
+- **nuôi lô hiệu quả**
+- **nuôi lô bạch thủ**
+- **nuôi lô khung**
+- **nuôi lô khung 2 ngày**
+- **nuôi lô khung 3 ngày**
+- **nuôi lô khung 247**
+- **phân tích chu kỳ lô**
+- **dự đoán kết quả xổ số**
+- **thống kê lô rơi**
+- **bắt lô gan**
+- **cầu đẹp hôm nay**
+## 🧠 Công Nghệ Sử Dụng
+
+- PHP + WordPress cho backend.
+- JavaScript / jQuery cho tính năng động.
+- Rank Math SEO, Yoast SEO plugin cho tối ưu tìm kiếm.
+- AI phân tích dữ liệu xổ số (nội bộ).
+## 💡 Góp Ý & Báo Lỗi
+
+Nếu bạn có đề xuất hoặc phát hiện lỗi, vui lòng tạo một Issue hoặc liên hệ qua email: [soicau24hclub@gmail.com](mailto:soicau24hclub@gmail.com)
+
+
