@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Soicau24h.Club - Soi Cầu MB 247, Dự Đoán Xổ Số & Giải Mã Giấc Mơ Chính Xác</title>
   <meta name="description" content="Soicau24h.club - Trang web soi cầu lô đề miền Bắc chính xác 100%, cập nhật kết quả xổ số nhanh, thống kê lô rơi, nuôi lô khung và giải mã giấc mơ miễn phí.">
   <meta name="keywords" content="soi cầu 24h, soi cầu 247, soi cầu MB, soi cầu MB 247, soi cầu miễn phí, giải mã giấc mơ, thống kê lô tô, nuôi lô khung, bắt lô gan, dự đoán kết quả xổ số, cầu đẹp hôm nay">
@@ -41,8 +41,33 @@
     ]
   }
   </script>
-</head>
 
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+      background: #fdfdfd;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #b30000;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #ccc;
+    }
+  </style>
+</head>
 <body>
   <header>
     <h1>Soicau24h.club – Trang Web Soi Cầu MB Chính Xác, Uy Tín Nhất Hiện Nay</h1>
